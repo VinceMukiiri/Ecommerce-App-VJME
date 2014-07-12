@@ -1,4 +1,4 @@
-Website-Template-CI-Bootstrap-FA
+Ecommerce WebApplication BIF2API
 ================================
 
 WebApp Project for BIF2API class done by Vince Mukiiri, Joel Githinji and Mike Njuguna.
