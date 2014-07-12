@@ -1,6 +1,6 @@
 Website-Template-CI-Bootstrap-FA
 ================================
 
-Boiler plate for web development.
+WebApp Project for BIF2API class done by Vince Mukiiri, Joel Githinji and Mike Njuguna.
 
-Includes CodeIgniter, Bootstrap3, FontAwesome, JQuery, FirePHP, MyModel and sample controllers and views.
+Created from [VinceMukiiri's Website Template](https://github.com/VinceMukiiri/Website-Template-CI-Bootstrap-FA/) (Includes CodeIgniter, Bootstrap3, FontAwesome, JQuery, FirePHP, MyModel and sample controllers and views.)
